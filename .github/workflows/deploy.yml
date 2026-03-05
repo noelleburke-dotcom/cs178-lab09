@@ -6,7 +6,11 @@ name: Deploy to EC2
 
 on:
   push:
+<<<<<<< HEAD
     branches:
+=======
+    branches: 
+>>>>>>> feature/read-dynamo
       - main   # Only trigger on pushes to main, not feature branches
 
 jobs:

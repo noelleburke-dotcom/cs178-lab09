@@ -4,7 +4,11 @@
 
 import boto3
 from boto3.dynamodb.conditions import Key
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> feature/read-dynamo
 # -------------------------------------------------------
 # Configuration — update REGION if your table is elsewhere
 # -------------------------------------------------------

@@ -1,7 +1,8 @@
 # read_movies.py
 # Reads all items from the DynamoDB Movies table and prints them.
 # Part of Lab 09 — feature/read-dynamo branch
-
+#hello please work this time!! 3
+#trying ssh again
 import boto3
 from boto3.dynamodb.conditions import Key
 

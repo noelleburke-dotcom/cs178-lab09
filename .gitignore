@@ -1,6 +1,7 @@
-# Python bytecode — generated automatically when you run a script, no need to track
-__pycache__/
-*.pyc
-
-# macOS metadata files — created automatically by Finder, not part of your project
-.DS_Store
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACBSbjqy5+SS29aGP6dCYO3dCqfbpvsONil0/2HiOrag1wAAAKC0tRWjtLUV
+owAAAAtzc2gtZWQyNTUxOQAAACBSbjqy5+SS29aGP6dCYO3dCqfbpvsONil0/2HiOrag1w
+AAAECX82gz9psmfsyzNC0iTeORXgDCmAZh/7LeF+LCn8V8c1JuOrLn5JLb1oY/p0Jg7d0K
+p9um+w42KXT/YeI6tqDXAAAAFm5vZWxsZS5idXJrZUBkcmFrZS5lZHUBAgMEBQYH
+-----END OPENSSH PRIVATE KEY-----

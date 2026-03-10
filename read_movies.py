@@ -59,7 +59,19 @@ def main():
 if __name__ == "__main__":
     main()
 
-def get_movie_by_title(movie):
+def get_movie_by_title(table):
     print("enter a movie title pretty please ")
-    scan()
+    title=input()
+
+    response = table.scan()
+    items = response.get("Items", [])
+    
+    if not items:
+        print("No movies found. Make sure your DynamoDB table has data.")
+        return
+    
+    print(f"Found {len(items)} movie(s):\n")
+    for movie in items:
+        print_movie(movie)
+
     

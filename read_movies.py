@@ -58,3 +58,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def get_movie_by_title(movie):
+    print("enter a movie title pretty please ")
+    scan()
+    
